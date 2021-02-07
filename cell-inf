@@ -1,0 +1,2 @@
+curl -sSl https://raw.githubusercontent.com/sundowndev/PhoneInfoga/master/support/scripts/install | bash 
+sudo mv ./phoneinfoga /usr/bin/phoneinfoga
