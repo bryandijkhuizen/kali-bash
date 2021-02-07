@@ -12,7 +12,4 @@ cd kali-bash
 
 python3 seeker.py -t manual
 
-2
-
-/home/kali/Pictures/image.jpg
 
